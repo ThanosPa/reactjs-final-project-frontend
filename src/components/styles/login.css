@@ -1,0 +1,14 @@
+.login{
+    display: flex;
+    margin-left: 40%;
+    margin-right: 40%;
+    padding: 60px;
+    justify-content: center;
+    align-items: center;
+    vertical-align: center;
+}
+.login-card{
+    border-radius: 20px;
+    border-width: 2px;
+    border-style: solid;
+}
